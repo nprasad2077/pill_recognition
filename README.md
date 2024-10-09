@@ -1,1 +1,1 @@
-# pill_recognition
+# pill recognition model
